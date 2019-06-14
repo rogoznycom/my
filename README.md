@@ -1,0 +1,2 @@
+# my
+moje pierwsze repozytorium
